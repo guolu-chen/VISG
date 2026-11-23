@@ -2,6 +2,12 @@
 
 VISG: Learning-Based Multisensor Relative Odometry With Vehicle Speed and GNSS
 
+## Paper
+
+**VISG: Learning-Based Multisensor Relative Odometry With Vehicle Speed and GNSS**
+
+[Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11755736)
+
 ## Source Code Release Status
 
 Thank you for your interest in VISG!
